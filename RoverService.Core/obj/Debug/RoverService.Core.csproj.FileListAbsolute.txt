@@ -1,0 +1,2 @@
+C:\Backend\Interview Projects\RoverService\RoverService.Core\obj\Debug\RoverService.Core.csproj.CoreCompileInputs.cache
+C:\Backend\Interview Projects\RoverService\RoverService.Core\obj\Debug\RoverService.Core.csprojResolveAssemblyReference.cache
